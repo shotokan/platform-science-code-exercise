@@ -30,7 +30,7 @@ $ go install golang.org/x/tools/cmd/godoc@latest
 $ godoc -http=:6060
 ```
 
-Once the godoc server is running we can enter:
+Once the godoc server is running we can open it using a browser:
 
 *http://localhost:6060/pkg/github.com/shotokan/platform-science-code-exercise/*
 
